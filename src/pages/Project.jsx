@@ -21,15 +21,15 @@ export default function Project() {
       github: "https://github.com/Amboara-PRO/Pokedex",
       image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ND8QIm2uaUJ5fiGTVl4_7QCUVzsvP-Mx-Q&s"
     },
-    {
-      id: 3,
-      title: "Gasy-Prime",
-      description: "Conception et déploiement de la plateforme officielle pour une ligue e-sport malagasy. Projet indexé sur Google, ayant servi de vitrine pour les palmarès et la gestion des membres de la communauté.",
-      tags: ["React", "Tailwind CSS", "SEO", "Vercel"],
-      link: "https://gasy-prime.vercel.app",
-      github: "https://github.com/RantoniainaAmbi/Gasy-prime",
-      image: "https://images.unsplash.com/photo-1552667466-07770ae110d0?q=80&w=1000&auto=format&fit=crop"
-    }
+{
+  id: 3,
+  title: "Bracket Generator",
+  description: "Application web de création et gestion de tournois sportifs. Supporte l'élimination directe et la phase de poules avec tirage croisé, drag & drop pour organiser les équipes, et persistance des données.",
+  tags: ["Next.js", "TypeScript", "Tailwind CSS", "Zustand"],
+  link: "https://bracket-generator-olive.vercel.app",
+  github: "https://github.com/RantoniainaAmbi/Bracket-generator",
+  image: "https://images.unsplash.com/photo-1546519638-68e109498ffc?q=80&w=1000&auto=format&fit=crop"
+}
   ];
 
   return (
